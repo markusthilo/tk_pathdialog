@@ -46,7 +46,7 @@ List of pathlib.Path objects
 
 ## Dependencies
 
-The standard libraries (tkinter and pathlib) are used. On windows should have WMI for detecting drives. You might install with pip:
+The standard libraries (tkinter and pathlib) are used. On windows you should have WMI for detecting drives, though a workaround is also implemented. You might install WMI using pip:
 ```
 pip install wmi
 ```
